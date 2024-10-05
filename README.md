@@ -9,4 +9,9 @@
 
 ### TOOLS USED
 Microsoft Excel [Download Here](https://www.microsoft.com)
+- For Data Cleaning
+- For Analysing
+- For Visualization
+- SQL-Structured Query Language for quering of data
+- Gifthub for building portfolio
 
